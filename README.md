@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=HanifMahendra&fontSize=50&fontColor=ffffff&fontAlignY=45)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Hanif+%F0%9F%8C%99;building+Jarvis%2C+one+commit+at+a+time;ML+%C2%B7+NLP+%C2%B7+LLM+Systems;open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Hanif+%F0%9F%8C%99" alt="Typing SVG" />
 
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=HanifMahendra.HanifMahendra&style=flat-square&color=70A5FD)](https://github.com/HanifMahendra)
 
@@ -24,11 +24,11 @@
 
 **languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,java,js,rust)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
 
 **backend & tools**
 
-[![Skills](https://skillicons.dev/icons?i=fastapi,postgres,docker,git,linux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=fastapi,postgres,docker,git)](https://skillicons.dev)
 
 </div>
 
