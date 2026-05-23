@@ -12,7 +12,7 @@
 
 ### 🧠 about me
 
-- 🔭 Learning: `**MLCV** (Machine Learning & Computer Vision) · **IRNLP** (Information Retrieval & NLP)`
+- 🔭 Learning: **MLCV** (Machine Learning & Computer Vision) · **IRNLP** (Information Retrieval & NLP)
 - 🌱 Currently deep in: `statistics` · `RAG pipelines` · `NLP foundations`
 - 🎵 Fueled by `good music and late-night debugging sessions`
 
