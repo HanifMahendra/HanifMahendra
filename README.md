@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=HanifMahendra&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20Fasilkom%20UI%20%C2%B7%20ML%20%2F%20NLP%20%2F%20LLM%20Systems&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=HanifMahendra&fontSize=50&fontColor=ffffff&fontAlignY=45)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Hanif+%F0%9F%8C%99;building+Jarvis%2C+one+commit+at+a+time;ML+%C2%B7+NLP+%C2%B7+LLM+Systems;open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
@@ -12,12 +12,9 @@
 
 ### 🧠 about me
 
-- 🎓 CS student at **Universitas Indonesia** — Fasilkom UI
-- 🔭 Tracks: **MLCV** (Machine Learning & Computer Vision) · **IRNLP** (Information Retrieval & NLP)
-- 🤖 End goal: building real **LLM/AI systems** — think Jarvis, but actually deployable
+- 🔭 Learning: **MLCV** (Machine Learning & Computer Vision) · **IRNLP** (Information Retrieval & NLP)
 - 🌱 Currently deep in: `statistics` · `RAG pipelines` · `NLP foundations`
 - 🎵 Fueled by good music and late-night debugging sessions
-- 💬 Ask me about: AI/ML, Python, or building intelligent systems
 
 ---
 
@@ -28,14 +25,6 @@
 **languages**
 
 [![Skills](https://skillicons.dev/icons?i=python,java,js,rust)](https://skillicons.dev)
-
-**ai / ml**
-
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
-&nbsp;
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **backend & tools**
 
@@ -68,21 +57,11 @@
 
 ---
 
-### 💬 dev quote
-
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
-
-### 🚀 currently building
-
-- 🔬 **RAG pipelines** — retrieval-augmented generation dari nol
-- 📚 **NLP learning path** — menuju LLM deployment yang production-ready
-- 🤝 Open to collaborate on AI/ML projects and research
 
 ---
 
